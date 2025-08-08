@@ -1,13 +1,5 @@
----
-layout: post  
-title: "【教程】在无法联网的服务器上配置Anaconda虚拟环境后再添加新需要的python包"  
-date: 2025-02-10 00:10 +0800  
-last_modified_at: 2025-02-11 00:10 +0800  
-tags: [configuration]  
-math: true  r
-toc: true  
-excerpt: "在无法联网的服务器上安装python包"
----
+
+
 在根据[在无法联网的服务器上配置Anaconda虚拟环境
 ](https://sihan0229.github.io/2025/02/09/Conda-server.html)打包传输虚拟环境之后，可能还需要补充或者改动一些python包，具体改动的方法如下：
 

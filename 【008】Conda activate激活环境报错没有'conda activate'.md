@@ -1,13 +1,5 @@
----
-layout: post  
-title: "【教程】Conda activate激活环境出错解决"  
-date: 2025-02-04 00:10 +0800  
-last_modified_at: 2025-02-05 00:10 +0800  
-tags: [configuration]  
-math: true  r
-toc: true  
-excerpt: "已经初始化Conda但仍然报错CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'."
----
+
+
 适用于已经完成下列排查：
 
 # 1. 确保 Conda 被正确安装并且可访问

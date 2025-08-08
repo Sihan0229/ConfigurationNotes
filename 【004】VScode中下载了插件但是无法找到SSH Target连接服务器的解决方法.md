@@ -1,13 +1,5 @@
----
-layout: post  
-title: "【教程】VScode中下载了插件但是无法找到SSH Target连接服务器的解决方法"  
-date: 2024-05-20 00:10 +0800  
-last_modified_at: 2024-05-20 00:10 +0800  
-tags: [configuration]  
-math: true  r
-toc: true  
-excerpt: "VScode中下载了插件但是无法找到SSH Target连接服务器的解决方法（CANNOT find SSH Target in remote explorer）"
----
+
+
 ## 版本信息
 
 + VSCode版本vscode version：(version 1.82)

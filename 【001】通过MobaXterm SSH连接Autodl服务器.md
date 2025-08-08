@@ -1,13 +1,3 @@
----
-layout: post  
-title: "【教程】通过MobaXterm SSH连接Autodl服务器"  
-date: 2024-05-23 01:10 +0800  
-last_modified_at: 2024-05-23 01:10 +0800  
-tags: [configuration]  
-math: true  r
-toc: true  
-excerpt: "MobaXterm SSH连接Autodl服务器流程"
----
 打开MobaXterm界面，点击左上角的 `Sessions`建立新的连接
 
 <img src="https://github.com/Sihan0229/Sihan0229.github.io/blob/master/assets/MobaXterm1.png?raw=true" width="100%">

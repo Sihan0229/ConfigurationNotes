@@ -1,13 +1,5 @@
----
-layout: post  
-title: "【教程】在无法联网的服务器上配置Anaconda虚拟环境"  
-date: 2025-02-10 00:10 +0800  
-last_modified_at: 2025-02-11 00:10 +0800  
-tags: [configuration]  
-math: true  r
-toc: true  
-excerpt: "实验室的服务器无法联网，但是需要配置虚拟环境，在另一个可以联网的linux设备上配置好虚拟环境再传输到服务器上"
----
+
+
 操作流程：
 
 # 1. 在另一个可以联网的linux设备上配置好虚拟环境
